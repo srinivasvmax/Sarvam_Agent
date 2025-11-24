@@ -1,0 +1,7 @@
+pipecat-ai
+aiohttp
+loguru
+pandas
+openpyxl
+websockets
+pydub
